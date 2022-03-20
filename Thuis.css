@@ -362,10 +362,6 @@
   margin: 30px auto -30px 0;
 }
 
-.u-section-4 .u-table-entity-1 {
-  height: 256px;
-}
-
 .u-section-4 .u-tab-pane-2 {
   background-image: none;
 }
@@ -602,7 +598,6 @@
 }
 
 .u-section-7 .u-custom-html-1 {
-  height: auto;
   min-height: 518px;
   margin: 3px 16px -3px 3px;
 }
@@ -617,6 +612,7 @@
   }
 
   .u-section-7 .u-custom-html-1 {
+    height: auto;
     margin-right: 0;
     margin-left: 0;
   }
