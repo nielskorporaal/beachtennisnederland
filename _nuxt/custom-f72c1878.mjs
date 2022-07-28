@@ -1,0 +1,1 @@
+import{a as o,o as t,b as a,Q as c,p as e}from"./entry-e34570fc.mjs";const n={},r={class:"p-4"},l=e("p",null,"Custom Layout",-1),_=e("hr",null,null,-1);function d(s,u){return t(),a("div",r,[l,_,c(s.$slots,"default")])}var i=o(n,[["render",d]]);export{i as default};
