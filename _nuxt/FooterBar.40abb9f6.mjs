@@ -1,0 +1,1 @@
+import{a as t,o,b as n,q as e}from"./entry.e8d80841.mjs";const s={},c={class:"footer footer-center p-4 bg-base-300 text-base-content"},r=e("div",null,[e("p",null,"Copyright \xA9 2022 - All right reserved by Beach Tennis Nederland.")],-1),_=[r];function a(l,d){return o(),n("footer",c,_)}const f=t(s,[["render",a]]);export{f as default};

@@ -1,0 +1,1 @@
+import{a as o,o as t,b as c,y as n,q as e}from"./entry.e8d80841.mjs";const a={},r={class:"p-4"},l=e("p",null,"Custom Layout",-1),_=e("hr",null,null,-1);function d(s,u){return t(),c("div",r,[l,_,n(s.$slots,"default")])}const i=o(a,[["render",d]]);export{i as default};
