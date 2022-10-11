@@ -1,0 +1,1 @@
+import{a as n,o,c as e,w as _,r as a,q as c}from"./entry.2c893493.mjs";const s={},r=c("button",{class:"btn"}," Terug naar homepagina ",-1);function u(p,f){const t=a;return o(),e(t,{to:"/"},{default:_(()=>[r]),_:1})}const m=n(s,[["render",u]]);export{m as default};

@@ -1,0 +1,1 @@
+import e from"./Markdown.f817fb88.mjs";import{a as r,o as t,b as n,e as c}from"./entry.2c893493.mjs";import"./ContentSlot.0499f019.mjs";const a={},s={class:"p-4 mt-4 mb-4 border bg-white rounded"};function _(d,m){const o=e;return t(),n("div",s,[c(o,{unwrap:"p"})])}const l=r(a,[["render",_]]);export{l as default};
